@@ -24,6 +24,8 @@ dev_dependencies:
 
 
 flutter:
+  assets:
+    - lib/assets/hdfc.png
 
 
   uses-material-design: true

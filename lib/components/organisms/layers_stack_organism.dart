@@ -14,12 +14,13 @@ class LayersStackOrganism extends StatefulWidget {
 
 class _LayersStackOrganismState extends State<LayersStackOrganism> {
   int currentStep;
-  double creditAmount = 500000.00;
+  double creditAmount;
 
   @override
   void initState() {
     super.initState();
     currentStep = 1;
+    creditAmount = 500000.00;
   }
 
   @override
@@ -155,7 +156,7 @@ class _LayersStackOrganismState extends State<LayersStackOrganism> {
                     CircularSliderAtom(
                       min: 100000,
                       max: 1000000,
-                      initialValue: 500000,
+                      initialValue: creditAmount,
                       onChange: (double value) {
                         creditAmount = value;
                       },
@@ -338,8 +339,7 @@ class _LayersStackOrganismState extends State<LayersStackOrganism> {
               Icons.check_circle,
               color: Colors.white38,
             ),
-            leading: Image.network(
-                'https://recruiter.bigshyft.com/companies/2115/logo/hdfc-bank?height=200&width=200'),
+            leading: Image.asset('lib/assets/hdfc.png')
           ),
           SizedBox(
             height: Themer.instance.font5,
