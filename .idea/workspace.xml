@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6421688c-c88e-42cb-b507-b8ee717bfca8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/components/atoms/rounded_button_atom.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stax.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/components/atoms/layer_atom.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/atoms/layer_atom.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/components/organisms/layers_stack_organism.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/components/organisms/layers_stack_organism.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-    </list>
+    <list default="true" id="6421688c-c88e-42cb-b507-b8ee717bfca8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,10 +136,10 @@
       <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="100" y="123" width="1480" height="754" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1680.954@0.23.1680.954" timestamp="1607070626595" />
-    <state x="328" y="403" key="com.intellij.ide.util.TipDialog" timestamp="1607070511268">
+    <state x="328" y="403" key="com.intellij.ide.util.TipDialog" timestamp="1607141940588">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state x="328" y="403" key="com.intellij.ide.util.TipDialog/0.23.1680.954@0.23.1680.954" timestamp="1607070511268" />
+    <state x="328" y="403" key="com.intellij.ide.util.TipDialog/0.23.1680.954@0.23.1680.954" timestamp="1607141940588" />
     <state x="1891" y="-91" key="com.intellij.ide.util.TipDialog/1680.-847.1080.1897/0.23.1680.954@1680.-847.1080.1897" timestamp="1606973031651" />
     <state x="1885" y="-419" width="670" height="676" key="search.everywhere.popup" timestamp="1606893298766">
       <screen x="1680" y="-870" width="1080" height="1920" />
